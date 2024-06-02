@@ -1,2 +1,3 @@
-# mammoth.github.io
-Website for MaMMoTh group at nanoGUNE
+# Website for the Piaggi Research Group group 
+## Materials and Molecules Modeling and Theory (MaMMoTh)
+### CIC nanoGUNE BRTA, San Sebastian, Spain
